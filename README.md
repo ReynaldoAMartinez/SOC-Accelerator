@@ -32,3 +32,13 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 Ref 1: Network Diagram
+
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
