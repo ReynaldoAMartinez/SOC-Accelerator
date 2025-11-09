@@ -33,21 +33,43 @@ Example below.
 
 Ref 1: Network Diagram
 
+# My Project
+
 ## Table of Contents
-- [About the Project](#about-the-project)
+- [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Detailed Guides](#detailed-guides)
+  - [Configuration Guide](docs/configuration.md)
+  - [Troubleshooting](docs/troubleshooting.md)
+  - [API Reference](docs/api-reference.md)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
+---
 
-## About the Project
-Brief description...
+## Overview
+A short description of what the project does.
 
 ## Installation
-Instructions...
+Steps to install the project.
 
 ## Usage
-How to use...
+Examples of how to use it.
+
+## Features
+Key highlights of your project.
+
+## Detailed Guides
+See the following pages for more information:
+- [Configuration Guide](docs/configuration.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- [API Reference](docs/api-reference.md)
+
+## Contributing
+How others can contribute.
+
+## License
+Information about the license.
+
