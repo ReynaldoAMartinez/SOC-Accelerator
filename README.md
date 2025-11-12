@@ -1,5 +1,5 @@
 # SOC-Accelerator
-
+<!--
 PROJECTNAME
 
 Objective
@@ -69,6 +69,8 @@ See the following pages for more information:
 
 ## Contributing
 How others can contribute.
+
+-->
 
 ## License
 Information about the license.
