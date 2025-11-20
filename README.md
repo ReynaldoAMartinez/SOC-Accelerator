@@ -1,4 +1,7 @@
 # SOC-Accelerator
+
+<img width="1024" height="1024" alt="UnderConstruction" src="https://github.com/user-attachments/assets/5365437f-5069-4a45-bd93-82d1fad4580f" />
+
 <!--
 PROJECTNAME
 
